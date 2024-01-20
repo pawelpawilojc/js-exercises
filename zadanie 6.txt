@@ -1,0 +1,11 @@
+Paweł Pawiłojć 49536
+
+Prezentacja 6 - Laravel controller
+
+Online działające dostępne pod adresem https://pawilojc.pl/laravel/api/photos
+Kasowanie przez widok show https://pawilojc.pl/laravel/api/photos/ID
+np. https://pawilojc.pl/laravel/api/photos/7
+
+Tutaj zamieszczam show.blade.html zmieniony widok z formularzem do destroy
+i metodę z PhotoController.php
+
